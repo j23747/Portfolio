@@ -11,7 +11,8 @@ To view a live demo, [click here]https://jmwania.github.io/)
 
 ## Setup
 * Clone the repository
-* Replaced the content with your's info.
+* cd to the directory
+* Run index.html file
 
 ## TODO
 * Have to setup Gulp or Webpack for minification of script files.
@@ -23,7 +24,7 @@ To view a live demo, [click here]https://jmwania.github.io/)
 ### 1.0.0
 
 * Relesed stable version with basic content
-* Added skills section
+
 ## License
 
 Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more
