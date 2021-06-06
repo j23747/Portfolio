@@ -27,4 +27,3 @@ To view a live demo, [click here]https://jmwania.github.io/)
 
 ## License
 
-Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more
