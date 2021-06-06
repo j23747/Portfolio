@@ -1,6 +1,6 @@
 # Portfolio 
 This repository contains a portfolio that showcases examples of my  work along with the usual resume information about my  work experience.
-It was created with HTML, CSS and Javascript. Its is lightweight and fully responsive, as well as comes with the Bootstrap.
+It was created with HTML, CSS and Javascript. It is lightweight and fully responsive, as well as comes with the Bootstrap.
 
 To view a live demo, [click here]https://jmwania.github.io/)
 
