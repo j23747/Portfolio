@@ -25,5 +25,5 @@ To view a live demo, [click here]https://jmwania.github.io/)
 
 * Relesed stable version with basic content
 
-## License
+
 
